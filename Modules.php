@@ -9,7 +9,7 @@
  * @link    http://cempakaweb.com
  * @date:   2017-05-12
  * @time:   16:05:33
- * @license MIT
+ * @license BSD-3-Clause
  */
 
 namespace Modules\Video;

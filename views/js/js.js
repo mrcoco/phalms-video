@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    var url_path = "http://phalms.dev/video/";
+    var url_path = "/video/";
     var video_grid = $("#grid-video").bootgrid({
         ajax: true,
         url: url_path+"list",
